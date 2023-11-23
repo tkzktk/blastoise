@@ -1,0 +1,47 @@
+
+    body{
+        background-color: #161810;
+        color:white;
+        font-family: "Geom Graphic W03 Regular";
+    }
+    #main{
+        text-align: center;
+    }
+    #highlight{
+        color:yellow;
+    }
+    #header{
+        margin-bottom:2rem;
+        margin-top: 2rem;
+    }
+    #imgHeader{
+        margin-top:3rem;
+    }
+    #totalTVL{
+        font-size:2rem;
+        margin-top:3rem;
+        margin-bottom:2.5rem;
+    }
+    #footer{
+        text-align: center;
+        margin-top:4rem;
+    }
+    a:link {
+  color: yellow;
+  background-color: transparent;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+}
